@@ -1,26 +1,20 @@
-# Hi, I'm Oscar 👋
+# Hi, I'm Oscar Cedano👋
 
-**Full-Stack Software Engineer at Grupo STI** in Mazatlán, Mexico 🇲🇽. I build backend systems and REST APIs with Laravel, and I like writing the tests first.
-
-## 🚀 What I'm up to
-
-- 🛡️ Building **[Fraudebot](https://github.com/Fraude-Bot)**, a free, community-driven database that helps people in Mexico check whether an online seller has been reported for fraud.
-- 🎓 Finishing my degree in Information Technology Engineering at Universidad Politécnica de Sinaloa.
+**Full-Stack Software Engineer at Grupo STI** in Mazatlán, Mexico 🇲🇽.
 
 ## 🛠️ Tech stack
 
 ⚙️ **Backend:** PHP · Laravel · MySQL · Redis · REST APIs  
 🎨 **Frontend:** JavaScript · TypeScript · React  
+🖥️ **Scripting:**: Bash · Python 
 🐳 **Tools:** Docker · Git · GitHub Actions · TDD
 
 ## 📌 Featured projects
 
 | Project | What it is |
 |---|---|
-| 🛡️ [Fraude-Bot/Backend](https://github.com/Fraude-Bot/Backend) | The Laravel API behind Fraudebot |
-| 💻 [Fraude-Bot/Frontend](https://github.com/Fraude-Bot/Frontend) | The React and TypeScript web app for Fraudebot |
-| 💬 [WhatsCRM](https://github.com/iam-cedano/WhatsCRM) | A Chrome extension for WhatsApp |
-| 🔐 [SecureLab](https://github.com/iam-cedano/securelab-reconocimiento-facial-2) | A facial recognition project |
+| 🛡️ [Fraude-Bot](https://github.com/Fraude-Bot) | Public platform to report scammers and organizations on internet. Made with PHP (Laravel) and Typescript/Javascript (React) |
+| ✈️ [RobotCasino](https://github.com/RobotCasino)  | CLI program to automate strategies for Spribe Aviator. Made using Python (Pydoll) | 
 
 ## 📫 Let's connect
 
