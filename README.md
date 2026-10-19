@@ -6,7 +6,7 @@
 
 ⚙️ **Backend:** PHP · Laravel · MySQL · Redis · REST APIs  
 🎨 **Frontend:** JavaScript · TypeScript · React  
-🖥️ **Scripting:** Bash · Python 
+🖥️ **Scripting:** Bash · Python  
 🐳 **Tools:** Docker · Git · GitHub Actions · TDD
 
 ## 📌 Featured projects
